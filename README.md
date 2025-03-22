@@ -26,4 +26,12 @@ Para ejecutar el proyecto en tu máquina local, primero debes instalar las depen
 - Python 3.x
 - PyQt5
 
+### Pasos de Instalación
 
+1. **Clona este repositorio en tu máquina local:**
+
+   Abre la terminal y ejecuta el siguiente comando:
+
+   ```bash
+   git clone https://github.com/kevin-hernandez28/selector_horario.git
+   cd selector_horario
